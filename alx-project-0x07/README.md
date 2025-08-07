@@ -20,6 +20,3 @@ This is the initial setup for the **HookMastery: Unleashing the Power of Hooks**
 - Prepare the homepage for image prompt input
 
 ---
-
-## 📂 Directory Structure
-
