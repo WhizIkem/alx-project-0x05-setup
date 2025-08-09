@@ -42,7 +42,7 @@ const Home: React.FC = () => {
           </button>
         </div>
 
-        {imageUrl} && <ImageCard action={() => setImageUrl(imageUrl)} imageUrl={imageUrl} prompt={prompt} />
+        {imageUrl && <ImageCard action={() => setImageUrl(imageUrl)} imageUrl={imageUrl} prompt={prompt} />}
       </div>
     </div>
   );
